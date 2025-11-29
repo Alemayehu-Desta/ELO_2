@@ -26,14 +26,11 @@ All cleaning and transformation will be performed in the `2_data_preparation` fo
       ├── electricity.csv
       ├── education.csv
 
-
-Dataset Inventory
-
-Below is a detailed inventory of all raw datasets used in the FARS project, describing their source, data type, and analytical purpose.
+```
 
 # Dataset Documentation
 
-Below are the raw datasets included, their direct source links, and their purpose in the FARS model.
+Below is a detailed inventory of all raw datasets used in the project, describing their source, data type, and analytical purpose.
 
 | File Name                  | Description                         | Source Link                                                                 | Years     | Purpose                              |
 |---------------------------|--------------------------------------|------------------------------------------------------------------------------|-----------|---------------------------------------|
