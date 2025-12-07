@@ -1,5 +1,5 @@
 ## **FDI Determinants in Developing Economies**  
-### *MIT Emerging Talent – Individual Collaborative Data Science Project (CDSP)*  
+### *MIT Emerging Talent – Individual Data Science Project (CDSP)*  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Type%3A%20Econometrics%20%2B%20ML-blue" />
@@ -218,6 +218,7 @@ Investors may “price in” corruption if infrastructure is strong.
   <img src="https://img.shields.io/badge/Visualization-Plotly%20%7C%20Tableau-green" />
   <img src="https://img.shields.io/badge/Notebook-Jupyter-lightgrey" />
 </p>
+
 
 
 
