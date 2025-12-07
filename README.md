@@ -95,9 +95,18 @@ The structure follows the **MIT Emerging Talent – Collaborative Data Science P
 ### Regression Modeling
 
 **Baseline regression equation:**
-log(FDI_it) = β0+ β1 GDP_growth_it+ β2 Trade_pct_GDP_it+ β3 Inflation_CPI_it
-+ β4 LPI_score_it+ β5 CPI_it+ β6 Electricity_access_it+ β7 Education_enrollment_it
-+ ε_it
+
+log(FDI_it) =
+    β0
+    + β1 * GDP_growth_it
+    + β2 * Trade_pct_GDP_it
+    + β3 * Inflation_CPI_it
+    + β4 * LPI_score_it
+    + β5 * CPI_it
+    + β6 * Electricity_access_it
+    + β7 * Education_enrollment_it
+    + ε_it
+
 
   
 ---
@@ -129,7 +138,7 @@ log(FDI_it) = β0+ β1 GDP_growth_it+ β2 Trade_pct_GDP_it+ β3 Inflation_CPI_it
 - Macroeconomic & structural variables  
 - **Lagged FDI:** `log(FDI_{i,t-1})`  
 
-#### Why Lagged FDI?
+### Why Lagged FDI?
 Because **FDI is path-dependent** — countries that received investment last year tend to keep receiving it.
 
 ---
@@ -192,6 +201,7 @@ Investors may “price in” corruption if infrastructure is strong.
   <img src="https://img.shields.io/badge/Visualization-Plotly%20%7C%20Tableau-green" />
   <img src="https://img.shields.io/badge/Notebook-Jupyter-lightgrey" />
 </p>
+
 
 
 
